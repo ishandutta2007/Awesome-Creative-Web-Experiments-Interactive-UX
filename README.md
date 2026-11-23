@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cloud-based IDE, web sandbox, and collaborative developer playground sector is estimated at **$6.8 billion** and projected to expand past **$28 billion** over the next decade at a ~17% CAGR (with broader IDE and developer tooling reaching upwards of $17.5B). The sector is **moderately fragmented**: hyperscalers and mega-cap platforms (Microsoft Codespaces, Together AI / CodeSandbox, Fastly / Glitch) anchor enterprise cloud infrastructure, while high-velocity AI agent sandboxes (Replit, StackBlitz) and specialized creative coding communities (CodePen, Observable, Shadertoy) sustain strong differentiation, preventing a pure winner-take-all consolidation.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[CodePen](https://codepen.io)**  
-
-  Iconic social frontend development playground and creative coding community for building, testing, and showcasing interactive HTML, CSS, SVG, and WebGL pens.
-
-
-
-- **[CodeSandbox](https://codesandbox.io)**  
-
-  Instant cloud development and interactive prototyping environment supporting full-stack microVM sandboxes, live multiplayer previews, and embeddable React/Vue demos.
-
-
-
-- **[StackBlitz](https://stackblitz.com)**  
-
-  Browser-native web IDE powered by WebContainers that executes Node.js, Vite, Astro, and Next.js experiments entirely inside the browser with zero server roundtrips.
-
-
-
-- **[Shadertoy](https://shadertoy.com)**  
-
-  Premier online GLSL fragment shader playground and community gallery for real-time WebGL procedural graphics, raymarching, and audio-reactive visual experiments.
-
-
-
-- **[Observable (Observable Cloud)](https://observablehq.com)**  
-
-  Collaborative reactive notebook platform engineered for interactive data visualization, D3.js/Plot experiments, and explorable explanations on the web.
-
-
-
-- **[JSFiddle](https://jsfiddle.net)**  
-
-  Classic lightweight online code playground for rapidly testing and sharing JavaScript, CSS, HTML, and frontend library snippets.
-
-
-
-- **[Glitch](https://glitch.com)**  
-
-  Creative web coding and instant app-remixing platform featuring live collaborative editing and zero-config static/Node.js hosting.
-
-
-
-- **[Replit](https://replit.com)**  
-
-  Browser-based coding studio and deployment platform enabling interactive web experiments, multiplayer live coding, and AI-assisted prototyping.
-
-
-
-- **[PlayCode](https://playcode.io)**  
-
-  Fast browser-based JavaScript and TypeScript playground offering instant live preview consoles, npm package imports, and zero-setup frontend sandboxing.
-
-
-
-- **[p5.js Web Editor (Hosted by Processing Foundation)](https://p5js.org)**  
-
-  Official hosted browser coding environment for p5.js allowing artists, students, and creative coders to write, run, and share interactive generative sketches online.
+| Platform | Estimated Scale / Valuation / Revenue | Starting Pricing Tier | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Replit](https://replit.com)** | ~$9.0B Valuation ($240M+ ARR) | Core: $15/month (annual) or $20/month (monthly) | Free forever plan: 3 public repls, basic shared CPU/0.5 GiB RAM compute, community AI access, 10 GiB storage limit | Browser-based coding studio and deployment platform enabling interactive web experiments, multiplayer live coding, and autonomous AI-assisted agent prototyping. |
+| **[Glitch](https://glitch.com)** | Parent Fastly: ~$2.5B Market Cap ($30M VC raised prior to acquisition) | Pro: $8/month (billed annually) or $10/month (monthly) | Free forever plan: 1,000 project hours/month (sleeps after 5 min inactivity), 200 MB disk limit per project, 512 MB RAM, public apps only | Creative web coding and instant app-remixing platform featuring live collaborative editing and zero-config static and Node.js hosting. |
+| **[StackBlitz](https://stackblitz.com)** | ~$700M Valuation (Series B) | Pro: $18/month (billed annually) or $25/month (monthly) | Free forever Personal plan: Unlimited public projects, public collections, and public GitHub repos; restricted to browser-based WebContainers (no private repos or private projects) | Browser-native web IDE powered by WebContainers that executes Node.js, Vite, Astro, and Next.js experiments entirely inside the browser with zero server roundtrips. |
+| **[Observable](https://observablehq.com)** | ~$150M–$200M Est. Valuation ($46.1M VC raised) | Pro: $22/month (billed annually) or $25/month (monthly) | Free forever Starter plan: Unlimited public notebooks only (no private notebooks), 50 compute minutes/month, 1 GB file attachments/month, basic AI tokens/day, Observable watermark on embeds | Collaborative reactive notebook platform engineered for interactive data visualization, D3.js/Plot experiments, and explorable explanations on the web. |
+| **[CodeSandbox](https://codesandbox.io)** | Acquired by Together AI ($15.2M VC raised prior to acquisition) | Pro: $9/month (annual) or $15/month (monthly) | Free forever plan: 400 monthly VM runtime credits, 2 vCPUs / 2 GB RAM max sandbox spec, 1 active workspace member, public sandboxes | Instant cloud development and interactive prototyping environment supporting full-stack microVM sandboxes, live multiplayer previews, and embeddable React/Vue demos. |
+| **[PlayCode](https://playcode.io)** | ~$3M–$5M Est. Bootstrapped / Seed Scale | Pro: $17/month (billed annually) or $19/month (monthly) | Free forever plan: 3 saved projects limit, static website hosting only on playcode.io subdomains, no cloud apps with backend/database, no custom domains, 0 monthly AI credits | Fast browser-based JavaScript and TypeScript playground offering instant live preview consoles, npm package imports, and zero-setup frontend sandboxing. |
+| **[CodePen](https://codepen.io)** | ~$870K ARR (~$3M–$5M Est. Bootstrapped Valuation) | Starter Pro: $8/month (billed annually) or $12/month (monthly) | Free forever plan: Unlimited public pens only (no private pens), max 3 files per pen, 1 MB text file limit, 0 GB asset hosting storage (must link external assets), no Collab Mode | Iconic social frontend development playground and creative coding community for building, testing, and showcasing interactive HTML, CSS, SVG, and WebGL pens. |
+| **[JSFiddle](https://jsfiddle.net)** | ~$500K–$1M Est. Indie Bootstrapped ARR | Pro: €8/month (or €80/year one-time) | Free forever plan: Unlimited public fiddles only (no private fiddles or collections), displays third-party ads, no vanity domain / Fiddle Pages hosting | Classic lightweight online code playground for rapidly testing and sharing JavaScript, CSS, HTML, and frontend library snippets. |
+| **[Shadertoy](https://shadertoy.com)** | Indie Community Funded (~$100K–$300K Est. Annual Crowdfunding/Patronage) | Supporter / Patron: $2/month | Free forever plan: Public and unlisted shaders only (no private shader slots), community texture/audio resource bounds, WebGL browser execution | Premier online GLSL fragment shader playground and community gallery for real-time WebGL procedural graphics, raymarching, and audio-reactive visual experiments. |
+| **[p5.js Web Editor](https://p5js.org)** | 501(c)(3) Non-Profit Open Access (Processing Foundation) | Completely Free ($0/month, fully donor & grant supported) | Free forever: 100% free open educational access, ~250 MB total account asset storage quota, individual file upload size limits (e.g., ~80 KB for text files; media files capped) | Official hosted browser coding environment for p5.js allowing artists, students, and creative coders to write, run, and share interactive generative sketches online. |
 
 
 
