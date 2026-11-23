@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Web-Experiments-Interactive-UX/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-emerald?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,7 +72,7 @@ The global cloud-based IDE, web sandbox, and collaborative developer playground 
 
 ## 💻 Open-Source GitHub Projects (Ranked by ⭐ Stars)
 
-*Every open-source project below includes an official live star badge linking directly to that repository's Stargazers page, sorted strictly in descending order of GitHub stars.*
+*Every open-source project below includes an official live Stars_Badge linking directly to that repository's Stargazers page, sorted strictly in descending order of GitHub_Stars.*
 
 1. **[Three.js (`mrdoob/three.js`)](https://github.com/mrdoob/three.js)** <a href="https://github.com/mrdoob/three.js/stargazers"><img src="https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white" alt="Three.js Stars" /></a>  
    🌐 The undisputed industry-standard JavaScript 3D library supporting WebGL, WebGPU, realistic PBR materials, post-processing shaders, and spatial VR/AR experiences.
@@ -169,7 +169,7 @@ Contributions are warmly welcomed! Help expand this creative directory:
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a descriptive branch**: `git checkout -b feature/add-new-creative-tool`.
-3. 📝 **Add or update an entry** in `README.md` maintaining proper table or list formatting, specific pricing/free limits for SaaS, or live star badges for open-source repos.
+3. 📝 **Add or update an entry** in `README.md` maintaining proper table or list formatting, specific pricing/free limits for SaaS, or live Stars_Badges for open-source repos.
 4. 🚀 **Commit your changes**: `git commit -m "feat: add [Tool Name] to creative web experiments"`.
 5. 📬 **Submit a Pull Request** with a brief overview of why the tool is valuable for creative technologists and interactive UX designers.
 
